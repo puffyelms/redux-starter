@@ -26,4 +26,4 @@ CourseList.propTypes = {
   courses: PropTypes.array.isRequired
 };
 
-export default CourseList
+export default CourseList;
